@@ -3,7 +3,7 @@ The demo can be found here https://baena.ai/demos/reliefjobs-dashboard
 The project brief can be found here https://baena.ai/projects/reliefweb-jobs-dashboard
 A more explanatory article can be found here https://baena.ai/articles/jobs-relief
 
-# 🌍 ReliefWeb Jobs Dashboard (005)
+# 🌍 ReliefWeb Jobs Dashboard
 
 A real-time dashboard designed for humanitarian workers to visualize, search, and analyze job opportunities from [ReliefWeb](https://reliefweb.int/). This project leverages modern web technologies to simplify access to critical humanitarian career information.
 
@@ -12,7 +12,7 @@ A real-time dashboard designed for humanitarian workers to visualize, search, an
 
 ## 📖 Description
 
-**005-dashboard-reliefweb-jobs** is an Information Management (IM) tool that aggregates job data from the ReliefWeb API. It provides a user-friendly interface to filter jobs by organization, country, and career category. 
+**2025-dashboard-reliefweb-jobs** is an Information Management (IM) tool that aggregates job data from the ReliefWeb API. It provides a user-friendly interface to filter jobs by organization, country, and career category. 
 
 This project is part of a broader initiative to apply data analysis and automation (via n8n) to humanitarian workflows.
 
@@ -29,16 +29,6 @@ This project is part of a broader initiative to apply data analysis and automati
 * **Styling:** Tailwind CSS (for rapid, responsive design)
 * **Data Pipeline:** [n8n](https://n8n.io/) (for orchestrating API calls and data transformation)
 * **Design:** Figma (UI/UX Prototyping)
-
-## 🤝 Contributing
-
-Contributions are welcome\! If you are interested in humanitarian data analysis:
-
-1.  Fork the repository.
-2.  Create a new branch (`git checkout -b feature/AmazingFeature`).
-3.  Commit your changes (`git commit -m 'Add some AmazingFeature'`).
-4.  Push to the branch (`git push origin feature/AmazingFeature`).
-5.  Open a Pull Request.
 
 ## 📄 License
 
